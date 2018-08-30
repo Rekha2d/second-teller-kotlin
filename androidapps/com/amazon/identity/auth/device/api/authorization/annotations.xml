@@ -1,6 +1,0 @@
-<root>
-    <item
-        name='com.amazon.identity.auth.device.api.authorization.AuthorizeRequest.Builder Builder(com.amazon.identity.auth.device.api.workflow.RequestContext)'>
-        <annotation name='java.lang.Deprecated' />
-    </item>
-</root>
