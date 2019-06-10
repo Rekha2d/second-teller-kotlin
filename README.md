@@ -1,2 +1,2 @@
  # second-teller-kotlin
-Speaks out seconds from timer for user.
+Speaks out Time by narrating minute and seconds as well for user.
